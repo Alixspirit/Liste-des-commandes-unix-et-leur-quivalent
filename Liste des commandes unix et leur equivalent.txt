@@ -1,0 +1,7 @@
+﻿# Liste des commandes unis et leur equivalent
+* cp<source><destination> equivalent a Copy-Item<source> -Destination<destination>
+* rm equivalent a Remove-Item
+* cd<repertoire> equivalent a Set-Location -Path<repertoire>
+* mkdir<repertoire1><repertoire2> equivalent a New-Item-Path<repertoire parent> -Name<repertoire> ItemType "directory"
+* history equivalent a Get-History
+* cat<fichier> equivalent a Get-Content -Path<fichier>
