@@ -5,3 +5,8 @@
 * mkdir<repertoire1><repertoire2> equivalent a New-Item-Path<repertoire parent> -Name<repertoire> ItemType "directory"
 * history equivalent a Get-History
 * cat<fichier> equivalent a Get-Content -Path<fichier>
+
+ Id CommandLine                                                                                                                                                                     
+  -- -----------                                                                                                                                                                     
+   1 Get-Verb                                                                                                                                                                        
+   2 Get-Command 
